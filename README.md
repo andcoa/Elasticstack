@@ -16,7 +16,7 @@ To use the Elastic Stack (ELK)—Elasticsearch, Logstash, and Kibana—for centr
 - Kibana – Web UI for data visualization and querying logs stored in Elasticsearch.
 - Elasticsearch – Scalable search and analytics engine for storing and indexing log data.
 
-## Steps
+## Exercises
 
 Finding the IP address with maximum number of connections.
 
