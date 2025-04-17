@@ -1,4 +1,4 @@
-# NixGuard
+# Elastic Stack
 
 ## Objective
 
