@@ -2,7 +2,7 @@
 
 ## Objective
 
-To use the Elastic Stack (ELK)—Elasticsearch, Logstash, and Kibana—for centralized log collection, analysis, and visualization in a SOC environment. Focused on using Kibana to identify and investigate security incidents through real-time dashboards and queries.
+To use the Elastic Stack (ELK)—Elasticsearch, Logstash, and Kibana for centralized log collection, analysis, and visualization in a SOC environment. Focused on using Kibana to identify and investigate security incidents through real-time dashboards and queries.
 
 ## Skills Learned
 
@@ -21,3 +21,16 @@ To use the Elastic Stack (ELK)—Elasticsearch, Logstash, and Kibana—for centr
 Finding the IP address with maximum number of connections.
 
 ![image](https://github.com/user-attachments/assets/c8b2f6ce-f671-4151-9d53-58e55653351d)
+
+Finding which user is responsible for the most traffic
+
+![image](https://github.com/user-attachments/assets/c5eee2db-a0c3-4716-af83-84d699f33f81)
+
+Filtering for user Emanda to find out which sourceIP has the most hits for said user:
+
+![image](https://github.com/user-attachments/assets/a78c65c5-9195-4438-b30b-a4f24c7ee009)
+
+Checking the number of connections from a specific IP in the New York state:
+
+![image](https://github.com/user-attachments/assets/312a12a5-6036-49a1-bdb0-0104c0bad8a7)
+
