@@ -20,7 +20,7 @@ To use the Elastic Stack (ELK)—Elasticsearch, Logstash, and Kibana for central
 
 Finding the IP address with maximum number of connections.
 
-![image](https://github.com/user-attachments/assets/b68ada27-b84f-4e4d-a780-0b8b14577eb2)
+![image](https://github.com/user-attachments/assets/d5626e57-4789-4abb-b120-10346430db1b)
 
 Finding which user is responsible for the most traffic
 
