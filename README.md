@@ -34,3 +34,8 @@ Checking the number of connections from a specific IP in the New York state:
 
 ![image](https://github.com/user-attachments/assets/312a12a5-6036-49a1-bdb0-0104c0bad8a7)
 
+KQL (Kibana Query Language):
+Created a chart to visualize the correlation between Source_Country and Source_IP.
+
+![image](https://github.com/user-attachments/assets/79357fcc-a8e9-4893-99bf-2e9d6bc2f684)
+
