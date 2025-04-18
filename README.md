@@ -28,7 +28,7 @@ Finding which user is responsible for the most traffic
 
 Filtering for user Emanda to find out which sourceIP has the most hits for said user:
 
-![image](https://github.com/user-attachments/assets/a78c65c5-9195-4438-b30b-a4f24c7ee009)
+![image](https://github.com/user-attachments/assets/21e94d36-6be5-4429-a5de-0d38b6dc6592)
 
 Checking the number of connections from a specific IP in the New York state:
 
