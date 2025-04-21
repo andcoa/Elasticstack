@@ -6,10 +6,10 @@ To use the Elastic Stack (ELK)—Elasticsearch, Logstash, and Kibana for central
 
 ## Skills Learned
 
-- 📈 Data Visualization with Kibana: Built dashboards and visualizations to monitor system activity, detect anomalies, and investigate security alerts.
-- 🧠 Elasticsearch Querying: Queried indexed data using Kibana’s Lucene-based syntax to filter, analyze, and trace suspicious events.
-- ⚙️ SIEM Integration: Leveraged Elastic Security features to simulate real-world SOC use cases such as user behavior monitoring and threat hunting.
-- 🚨 Alert Investigation: Analyzed log patterns to identify potential IOCs (Indicators of Compromise) and respond to security events.
+- Data Visualization with Kibana: Built dashboards and visualizations to monitor system activity, detect anomalies, and investigate security alerts.
+- Elasticsearch Querying: Queried indexed data using Kibana’s Lucene-based syntax to filter, analyze, and trace suspicious events.
+- SIEM Integration: Leveraged Elastic Security features to simulate real-world SOC use cases such as user behavior monitoring and threat hunting.
+- Alert Investigation: Analyzed log patterns to identify potential IOCs (Indicators of Compromise) and respond to security events.
 
 ## Tools Used
 
